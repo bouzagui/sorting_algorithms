@@ -17,9 +17,13 @@ int main(void)
 
     printf("\n");
 
-    
+
     quick_sort(array, n);
+
+
     printf("\n");
+
+    
     print_array(array, n);
     return (0);
 }
